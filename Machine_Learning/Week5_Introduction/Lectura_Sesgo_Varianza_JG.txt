@@ -1,0 +1,10 @@
+LECTURA SOBRE SESGO Y VARIANZA
+(BIAS - VARIANCE TRADE-OFF)
+
+Tarea:
+Lee el artículo sobre sesgo y varianza: http://scott.fortmann-roe.com/docs/BiasVariance.html
+Ingresa un archivo de texto con un resumen de una oración del trade-off sesgo/varianza en tus propias palabras.
+
+El error por sesgo (bias) es la diferencia entre la predicciones esperadas (promedio) y el valor correcto (punto dado).
+El error por varianza es la variación entre cada una de las distintas predicciones que hace un modelo para un punto dado.
+No se puede reducir a cero el error por sesgo y varianza al mismo tiempo. La disminución de uno implica el incremento del otro. 
